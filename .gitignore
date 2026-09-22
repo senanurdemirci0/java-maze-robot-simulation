@@ -1,0 +1,16 @@
+# NetBeans / Java build outputs
+/build/
+/dist/
+/nbproject/private/
+*.class
+*.jar
+
+# Runtime-generated output files
+Dosya1.txt
+Dosya2.txt
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
